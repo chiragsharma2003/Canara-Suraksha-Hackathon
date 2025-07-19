@@ -56,3 +56,5 @@ Clipboard & Input Method Patterns
 they use.
 • Impostor giveaway: Copy-pasting credentials instead of typing, or
 using a different keyboard.
+
+<img width="164" height="400" alt="{4AFDFAA8-E4EC-4180-B1A6-CA287C5ED67E}" src="https://github.com/user-attachments/assets/831dd4fa-4b3e-44bb-a9e1-f1db43818dff" />
