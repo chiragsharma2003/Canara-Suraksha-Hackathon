@@ -1,7 +1,7 @@
 With the increasing adoption of mobile banking applications, traditional authentication methods—like passwords, PINs, or even biometrics—are no longer sufficient to protect users from sophisticated threats such as account takeovers, session hijacking, or fraudulent transactions andCybercriminals often exploit compromised credentials or session vulnerabilities post-login.
 
 <img width="303" height="405" alt="{905219B9-4EB2-4277-BA46-E077BC40ED5B}" src="https://github.com/user-attachments/assets/5113f644-0a4f-4e14-bf64-a3bf9259e9ee" />
-<img width="960" height="410" alt="{04F7C592-0BD0-4A1B-9FBA-80B6595CE6C5}" src="https://github.com/user-attachments/assets/5ede6473-312e-4542-ad7c-4b829d3d338b" />
+<img width="600" height="410" alt="{04F7C592-0BD0-4A1B-9FBA-80B6595CE6C5}" src="https://github.com/user-attachments/assets/5ede6473-312e-4542-ad7c-4b829d3d338b" />
 
 To counter this, financial institutions are turning to Behavior-Based
 Authentication (BBA) — a method that continuously verifies a user’s identity
