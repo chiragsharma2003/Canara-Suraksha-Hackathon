@@ -3,6 +3,7 @@ authentication methods—like passwords, PINs, or even biometrics—are no
 longer sufficient to protect users from sophisticated threats such as account
 takeovers, session hijacking, or fraudulent transactions. Cybercriminals often
 exploit compromised credentials or session vulnerabilities post-login.
+<img width="303" height="405" alt="{905219B9-4EB2-4277-BA46-E077BC40ED5B}" src="https://github.com/user-attachments/assets/5113f644-0a4f-4e14-bf64-a3bf9259e9ee" />
 
 To counter this, financial institutions are turning to Behavior-Based
 Authentication (BBA) — a method that continuously verifies a user’s identity
