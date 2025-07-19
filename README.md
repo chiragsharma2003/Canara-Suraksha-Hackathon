@@ -57,8 +57,8 @@ they use.
 • Impostor giveaway: Copy-pasting credentials instead of typing, or
 using a different keyboard.
 
-<img width="164" height="400" alt="{4AFDFAA8-E4EC-4180-B1A6-CA287C5ED67E}" src="https://github.com/user-attachments/assets/831dd4fa-4b3e-44bb-a9e1-f1db43818dff" />
-<img width="235" height="363" alt="{6024F3F2-922B-4613-9778-5471522531B5}" src="https://github.com/user-attachments/assets/8607b2bd-fb28-4927-93f9-2602ffe894d7" />
+<img width="300" height="600" alt="{4AFDFAA8-E4EC-4180-B1A6-CA287C5ED67E}" src="https://github.com/user-attachments/assets/831dd4fa-4b3e-44bb-a9e1-f1db43818dff" />
+<img width="300" height="500" alt="{6024F3F2-922B-4613-9778-5471522531B5}" src="https://github.com/user-attachments/assets/8607b2bd-fb28-4927-93f9-2602ffe894d7" />
 <img width="747" height="402" alt="{52BCE14E-4F31-41C1-91B4-28C91950FF9F}" src="https://github.com/user-attachments/assets/cc94b963-edc4-4624-9560-8637bca57983" />
 <img width="537" height="215" alt="{53DAE930-7EEE-45DE-B317-553577BC8519}" src="https://github.com/user-attachments/assets/d4fdeb48-4666-47f9-bc91-9b43b2dee8ae" />
 <img width="374" height="248" alt="{ABD3DADF-D10D-4B3B-A1BE-DCF7E5C91613}" src="https://github.com/user-attachments/assets/cd12d1cf-242b-4051-b893-9b0f14b86438" />
